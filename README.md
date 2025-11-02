@@ -1,4 +1,4 @@
-# savings-and-loan-program
+# project-savings-and-loan-java
 
 Ini adalah program simple java yang menggunakan ui console untuk kebutuhan koperasi seperti simpan dan pinjam.
 
