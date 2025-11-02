@@ -1,4 +1,4 @@
-# PROGRAM JAVA SIMPAN PINJAM TUGAS AKHIR IWIMA
+# savings-and-loan-program
 
 Ini adalah program simple java yang menggunakan ui console untuk kebutuhan koperasi seperti simpan dan pinjam.
 
